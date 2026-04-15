@@ -1,10 +1,10 @@
-# 🏥 Doctor Appointment System (HTML Project)
+#  Doctor Appointment System (HTML Project)
 
-## 📌 Project Description
+##  Project Description
 
 This is a simple web-based Doctor Appointment System developed using HTML. It allows users to view doctors, book appointments and contact healthcare services.
 
-## 🚀 Features
+##  Features
 
 * Home page with navigation
 * Doctors listing using table
@@ -12,12 +12,12 @@ This is a simple web-based Doctor Appointment System developed using HTML. It al
 * Confirmation page
 * Contact form
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * HTML5
 * Basic CSS
 
-## 📂 Project Structure
+##  Project Structure
 
 * index.html
 * doctors.html
@@ -25,16 +25,16 @@ This is a simple web-based Doctor Appointment System developed using HTML. It al
 * confirm.html
 * contact.html
 
-## 🎯 Purpose
+##  Purpose
 
 This project was developed to practice frontend development concepts like forms, tables, navigation, and page linking.
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add CSS for better UI
 * Add JavaScript for validation
 * Connect backend for real data storage
 
-## 👩‍💻 Author
+##  Author
 
 Karthika
